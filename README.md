@@ -25,10 +25,10 @@
 |:neutral_face:|`:neutral_face:`|:no_mouth:|`:no_mouth:`|:innocent:|`:innocent:`|
 
 #### animal
-|emoticon|name|emoticon|name|emoticon|name|
+|emoticon|name|emoticon|name|emoticon|name|emoticon|name|
 |:-:|:-----:|:-:|:-----:|:-:|:-----:|
-|:dog:|`:dog:`|:cat:|`:cat:`|:mouse:|`:mouse:`|
-|:hamster:|`:hamster:`|:rabbit:|`:rabbit:`|:wolf:|`:wolf:`|
-|:frog:|`:frog:`|:tiger:|`:tiger:`|:koala:|`:koala:`|
-|:bear:|`:bear:`|:pig:|`:pig:`|:pig_nose:|`:pig_nose:`|
-|:cow:|`:cow:`|:boar:|`:boar:`|:monkey_face:|`:monkey_face:`|
+|:dog:|`:dog:`|:cat:|`:cat:`|:mouse:|`:mouse:`|:monkey:|`:monkey:`|
+|:hamster:|`:hamster:`|:rabbit:|`:rabbit:`|:wolf:|`:wolf:`|:horse:|`:horse:`|
+|:frog:|`:frog:`|:tiger:|`:tiger:`|:koala:|`:koala:`|:racehorse:|`:racehorse:`|
+|:bear:|`:bear:`|:pig:|`:pig:`|:pig_nose:|`:pig_nose:`|:camel:|`:camel:`|
+|:cow:|`:cow:`|:boar:|`:boar:`|:monkey_face:|`:monkey_face:`|:sheep:|`:sheep:`|
