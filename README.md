@@ -1,4 +1,4 @@
 # github_emoticon
 
 #### expression
-|:bowtie:|`:bowtie:`|   c    |
+|----:bowtie:----|`:bowtie:`|   c    |
