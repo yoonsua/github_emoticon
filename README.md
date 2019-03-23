@@ -26,7 +26,7 @@
 
 #### animal
 |emoticon|name|emoticon|name|emoticon|name|emoticon|name|
-|:-:|:-----:|:-:|:-----:|:-:|:-----:|
+|:-:|:-----:|:-:|:-----:|:-:|:-----:|:-:|:-----:|
 |:dog:|`:dog:`|:cat:|`:cat:`|:mouse:|`:mouse:`|:monkey:|`:monkey:`|
 |:hamster:|`:hamster:`|:rabbit:|`:rabbit:`|:wolf:|`:wolf:`|:horse:|`:horse:`|
 |:frog:|`:frog:`|:tiger:|`:tiger:`|:koala:|`:koala:`|:racehorse:|`:racehorse:`|
