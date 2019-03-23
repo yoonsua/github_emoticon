@@ -2,7 +2,7 @@
 
 #### expression
 |emoticon|name|emoticon|name|emoticon|name|
-|:-----:|:---:|:-----:|:-----:|:-----:|:---:|
+|:---:|:-----:|:---:|:-----:|:---:|:-----:|
 |:bowtie:|`:bowtie:`|:smile:|`:smile:`|:simple_smile:|`:simple_smile:`|
 |:laughing:|`:laughing:`|:blush:|`:blush:`|:smiley:|`:smiley:`|
 |:relaxed:|`:relaxed:`|:smirk:|`:smirk:`|:heart_eyes:|`:heart_eyes:`|
