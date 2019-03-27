@@ -43,3 +43,20 @@
 |:mouse2:|`:mouse2:`|:ox:|`:ox:`|:dragon_face:|`:dragon_face:`|:blowfish:|`:blowfish:`|
 |:crocodile:|`:crocodile:`|:dromedary_camel:|`:dromedary_camel:`|:leopard:|`:leopard:`|:cat2:|`:cat2:`|
 |:poodle:|`:poodle:`|
+
+#### weather
+|emoticon|name|emoticon|name|emoticon|name|emoticon|name|
+|:--:|:------:|:--:|:------:|:--:|:------:|:--:|:------:|
+|:sunny:|`:sunny:`|:umbrella:|`:umbrella:`|:cloud:|`:cloud:`|:snowflake:|`:snowflake:`|
+|:snowman:|`:snowman:`|:zap:|`:zap:`|:cyclone:|`:cyclone:`|:foggy:|`:foggy:`|
+|:ocean:|`:ocean:`|:droplet:|`:droplet:`|
+
+#### food
+|emoticon|name|emoticon|name|emoticon|name|emoticon|name|
+|:honey_pot:|`:honey_pot:`|:apple:|`:apple:`|:green_apple:|`:green_apple:`|:tangerine:|`:tangerine:`|
+|:lemon:|`:lemon:`|:cherries:|`:cherries:`|:grapes:|`:grapes:`|:watermelon:|`:watermelon:`|
+|:strawberry:|`:strawberry:`|:peach:|`:peach:`|:melon:|`:melon:`|:banana:|`:banana:`|
+|:pear:|`:pear:`|:pineapple:|`:pineapple:`|:sweet_potato:|`:sweet_potato:`|:eggplant:|`:eggplant:`|
+|:tomato:|`:tomato:`|:corn:|`:corn:`|:lollipop:|`:lollipop:`|:candy:|`:candy:`|
+|:cookie:|`:cookie:`|:chocolate_bar:|`:chocolate_bar:`|:cake:|`:cake:`|:birthday:|`:birthday:`|
+|:ice_cream:|`:ice_cream:`|:shaved_ice:|`:shaved_ice:`|:custard:|`:custard:`|:icecream:|`:icecream:`|
