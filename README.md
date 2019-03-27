@@ -53,6 +53,7 @@
 
 #### food
 |emoticon|name|emoticon|name|emoticon|name|emoticon|name|
+|:--:|:------:|:--:|:------:|:--:|:------:|:--:|:------:|
 |:honey_pot:|`:honey_pot:`|:apple:|`:apple:`|:green_apple:|`:green_apple:`|:tangerine:|`:tangerine:`|
 |:lemon:|`:lemon:`|:cherries:|`:cherries:`|:grapes:|`:grapes:`|:watermelon:|`:watermelon:`|
 |:strawberry:|`:strawberry:`|:peach:|`:peach:`|:melon:|`:melon:`|:banana:|`:banana:`|
