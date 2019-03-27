@@ -61,3 +61,11 @@
 |:tomato:|`:tomato:`|:corn:|`:corn:`|:lollipop:|`:lollipop:`|:candy:|`:candy:`|
 |:cookie:|`:cookie:`|:chocolate_bar:|`:chocolate_bar:`|:cake:|`:cake:`|:birthday:|`:birthday:`|
 |:ice_cream:|`:ice_cream:`|:shaved_ice:|`:shaved_ice:`|:custard:|`:custard:`|:icecream:|`:icecream:`|
+|:doughnut:|`:doughnut:`|:bread:|`:bread:`|:egg:|`:egg:`|:dango:|`:dango:`|
+|:oden:|`:oden:`|:stew:|`:stew:`|:ramen:|`:ramen:`|:rice:|`:rice:`|
+|:rice_cracker:|`:rice_cracker:`|:rice_ball:|`:rice_ball:`|:fish_cake:|`:fish_cake:`|:sushi:|`:sushi:`|
+|:bento:|`:bento:`|:fried_shrimp:|`:fried_shrimp:`|:curry:|`:curry:`|:spaghetti:|`:spaghetti:`|
+|:meat_on_bone:|`:meat_on_bone:`|:poultry_leg:|`:poultry_leg:`|:fries:|`:fries:`|:hamburger:|`:hamburger:`|
+|:pizza:|`:pizza:`|:wine_glass:|`:wine_glass:`|:tropical_drink:|`:tropical_drink:`|:cocktail:|`:cocktail:`|
+|:beers:|`:beers:`|:beer:|`:beer:`|:baby_bottle:|`:baby_bottle:`|:sake:|`:sake:`|
+|:tea:|`:tea:`|:coffee:|`:coffee:`|:fishing_pole_and_fish:|`:fishing_pole_and_fish:`|:fork_and_knife:|`:fork_and_knife:`|
