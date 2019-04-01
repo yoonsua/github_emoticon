@@ -69,3 +69,13 @@
 |:pizza:|`:pizza:`|:wine_glass:|`:wine_glass:`|:tropical_drink:|`:tropical_drink:`|:cocktail:|`:cocktail:`|
 |:beers:|`:beers:`|:beer:|`:beer:`|:baby_bottle:|`:baby_bottle:`|:sake:|`:sake:`|
 |:tea:|`:tea:`|:coffee:|`:coffee:`|:fishing_pole_and_fish:|`:fishing_pole_and_fish:`|:fork_and_knife:|`:fork_and_knife:`|
+
+### hand
+|emoticon|name|emoticon|name|emoticon|name|emoticon|name|
+|:--:|:------:|:--:|:------:|:--:|:------:|:--:|:------:|
+|:+1:|`:+1:`|:-1:|`:-1:`|:thumbsup:|`:thumbsup:`|:thumbsdown:|`:thumbsdown:`|
+|:ok_hand:|`:ok_hand:`|:punch:|`:punch:`|:fist:|`:fist:`|:v:|`:v:`|
+|:wave:|`:wave:`|:hand:|`:hand:`|:raised_hand:|`:raised_hand:`|:open_hands:|`:open_hands:`|
+|:point_up:|`:point_up:`|:point_down:|`:point_down:`|:point_left:|`:point_left:`|:point_right:|`:point_right:`|
+|:raised_hands:|`:raised_hands:`|:pray:|`:pray:`|:point_up_2:|`:point_up_2:`|:clap:|`:clap:`|
+|:muscle:|`:muscle:`|:metal:|`:metal:`|
