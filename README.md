@@ -1,6 +1,6 @@
 # github_emoticon
 
-#### expression
+### expression
 |emoticon|name|emoticon|name|emoticon|name|
 |:-:|:-----:|:-:|:-----:|:-:|:-----:|
 |:bowtie:|`:bowtie:`|:smile:|`:smile:`|:laughing:|`:laughing:`|
@@ -24,7 +24,7 @@
 |:dizzy_face:|`:dizzy_face:`|:imp:|`:imp:`|:smiling_imp:|`:smiling_imp:`|
 |:neutral_face:|`:neutral_face:`|:no_mouth:|`:no_mouth:`|:innocent:|`:innocent:`|
 
-#### animal
+### animal
 |emoticon|name|emoticon|name|emoticon|name|emoticon|name|
 |:--:|:------:|:--:|:------:|:--:|:------:|:--:|:------:|
 |:dog:|`:dog:`|:cat:|`:cat:`|:mouse:|`:mouse:`|:monkey:|`:monkey:`|
@@ -44,14 +44,14 @@
 |:crocodile:|`:crocodile:`|:dromedary_camel:|`:dromedary_camel:`|:leopard:|`:leopard:`|:cat2:|`:cat2:`|
 |:poodle:|`:poodle:`|
 
-#### weather
+### weather
 |emoticon|name|emoticon|name|emoticon|name|emoticon|name|
 |:--:|:------:|:--:|:------:|:--:|:------:|:--:|:------:|
 |:sunny:|`:sunny:`|:umbrella:|`:umbrella:`|:cloud:|`:cloud:`|:snowflake:|`:snowflake:`|
 |:snowman:|`:snowman:`|:zap:|`:zap:`|:cyclone:|`:cyclone:`|:foggy:|`:foggy:`|
 |:ocean:|`:ocean:`|:droplet:|`:droplet:`|
 
-#### food
+### food
 |emoticon|name|emoticon|name|emoticon|name|emoticon|name|
 |:--:|:------:|:--:|:------:|:--:|:------:|:--:|:------:|
 |:honey_pot:|`:honey_pot:`|:apple:|`:apple:`|:green_apple:|`:green_apple:`|:tangerine:|`:tangerine:`|
