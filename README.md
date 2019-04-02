@@ -82,16 +82,18 @@
 |:muscle:|`:muscle:`|:metal:|`:metal:`|
 
 ### nature
-|emoticon|name|emoticon|name|emoticon|name|emoticon|name|
+|emoticon|name|emoticon|name|emoticon|name|
 |:--:|:------:|:--:|:------:|:--:|:------:|:--:|:------:|
-|:cherry_blossom:|`:cherry_blossom:`|:four_leaf_clover:|`:four_leaf_clover:`|:sunflower:|`:sunflower:`|:maple_leaf:|`:maple_leaf:`|
-|:fallen_leaf:|`:fallen_leaf:`|:mushroom:|`:mushroom:`|:palm_tree:|`:palm_tree:`|:deciduous_tree:|`:deciduous_tree:`|
-|:seedling:|`:seedling:`|:ear_of_rice:|`:ear_of_rice:`|:bouquet:|`:bouquet:`|:tulip:|`:tulip:`|
-|:rose:|`:rose:`|:hibiscus:|`:hibiscus:`|:leaves:|`:leaves:`|:herb:|`:herb:`|
-|:cactus:|`:cactus:`|:evergreen_tree:|`:evergreen_tree:`|:blossom:|`:blossom:`|:shell:|`:shell:`|
-|:sun_with_face:|`:sun_with_face:`|:full_moon_with_face:|`:full_moon_with_face:`|:new_moon_with_face:|`:new_moon_with_face:`|:new_moon:|`:new_moon:`|
-|:waxing_crescent_moon:|`:waxing_crescent_moon:`|:first_quarter_moon:|`:first_quarter_moon:`|:waxing_gibbous_moon:|`:waxing_gibbous_moon:`|:full_moon:|`:full_moon:`|
-|:waning_gibbous_moon:|`:waning_gibbous_moon:`|:last_quarter_moon:|`:last_quarter_moon:`|:waning_crescent_moon:|`:waning_crescent_moon:`|:last_quarter_moon_with_face:|`:last_quarter_moon_with_face:`|
-|:first_quarter_moon_with_face:|`:first_quarter_moon_with_face:`|:crescent_moon:|`:crescent_moon:`|:earth_africa:|`:earth_africa:`|:earth_americas:|`:earth_americas:`|
-|:earth_asia:|`:earth_asia:`|
-||``||``||``||``|
+|:cherry_blossom:|`:cherry_blossom:`|:four_leaf_clover:|`:four_leaf_clover:`|:sunflower:|`:sunflower:`|
+|:fallen_leaf:|`:fallen_leaf:`|:mushroom:|`:mushroom:`|:palm_tree:|`:palm_tree:`|
+|:seedling:|`:seedling:`|:ear_of_rice:|`:ear_of_rice:`|:bouquet:|`:bouquet:`|
+|:rose:|`:rose:`|:hibiscus:|`:hibiscus:`|:leaves:|`:leaves:`|
+|:cactus:|`:cactus:`|:evergreen_tree:|`:evergreen_tree:`|:blossom:|`:blossom:`|
+|:sun_with_face:|`:sun_with_face:`|:full_moon_with_face:|`:full_moon_with_face:`|:new_moon_with_face:|`:new_moon_with_face:`|
+|:waxing_crescent_moon:|`:waxing_crescent_moon:`|:first_quarter_moon:|`:first_quarter_moon:`|:waxing_gibbous_moon:|`:waxing_gibbous_moon:`|
+|:waning_gibbous_moon:|`:waning_gibbous_moon:`|:last_quarter_moon:|`:last_quarter_moon:`|:waning_crescent_moon:|`:waning_crescent_moon:`|
+|:first_quarter_moon_with_face:|`:first_quarter_moon_with_face:`|:crescent_moon:|`:crescent_moon:`|:earth_africa:|`:earth_africa:`|
+|:earth_asia:|`:earth_asia:`|:maple_leaf:|`:maple_leaf:`|:deciduous_tree:|`:deciduous_tree:`|
+|:tulip:|`:tulip:`|:herb:|`:herb:`|:shell:|`:shell:`|
+|:new_moon:|`:new_moon:`|:full_moon:|`:full_moon:`|:last_quarter_moon_with_face:|`:last_quarter_moon_with_face:`|
+|:earth_americas:|`:earth_americas:`|
