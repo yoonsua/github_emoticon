@@ -83,7 +83,7 @@
 
 ### nature
 |emoticon|name|emoticon|name|emoticon|name|
-|:--:|:------:|:--:|:------:|:--:|:------:|:--:|:------:|
+|:--:|:------:|:--:|:------:|:--:|:------:|
 |:cherry_blossom:|`:cherry_blossom:`|:four_leaf_clover:|`:four_leaf_clover:`|:sunflower:|`:sunflower:`|
 |:fallen_leaf:|`:fallen_leaf:`|:mushroom:|`:mushroom:`|:palm_tree:|`:palm_tree:`|
 |:seedling:|`:seedling:`|:ear_of_rice:|`:ear_of_rice:`|:bouquet:|`:bouquet:`|
