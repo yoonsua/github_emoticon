@@ -42,7 +42,7 @@
 |:goat:|`:goat:`|:rooster:|`:rooster:`|:dog2:|`:dog2:`|:pig2:|`:pig2:`|
 |:mouse2:|`:mouse2:`|:ox:|`:ox:`|:dragon_face:|`:dragon_face:`|:blowfish:|`:blowfish:`|
 |:crocodile:|`:crocodile:`|:dromedary_camel:|`:dromedary_camel:`|:leopard:|`:leopard:`|:cat2:|`:cat2:`|
-|:poodle:|`:poodle:`|
+|:poodle:|`:poodle:`|:paw_prints:|`:paw_prints:`|
 
 ### weather
 |emoticon|name|emoticon|name|emoticon|name|emoticon|name|
@@ -69,6 +69,7 @@
 |:pizza:|`:pizza:`|:wine_glass:|`:wine_glass:`|:tropical_drink:|`:tropical_drink:`|:cocktail:|`:cocktail:`|
 |:beers:|`:beers:`|:beer:|`:beer:`|:baby_bottle:|`:baby_bottle:`|:sake:|`:sake:`|
 |:tea:|`:tea:`|:coffee:|`:coffee:`|:fishing_pole_and_fish:|`:fishing_pole_and_fish:`|:fork_and_knife:|`:fork_and_knife:`|
+|:chestnut:|`:chestnut:`|
 
 ### hand
 |emoticon|name|emoticon|name|emoticon|name|emoticon|name|
@@ -79,3 +80,18 @@
 |:point_up:|`:point_up:`|:point_down:|`:point_down:`|:point_left:|`:point_left:`|:point_right:|`:point_right:`|
 |:raised_hands:|`:raised_hands:`|:pray:|`:pray:`|:point_up_2:|`:point_up_2:`|:clap:|`:clap:`|
 |:muscle:|`:muscle:`|:metal:|`:metal:`|
+
+### nature
+|emoticon|name|emoticon|name|emoticon|name|emoticon|name|
+|:--:|:------:|:--:|:------:|:--:|:------:|:--:|:------:|
+|:cherry_blossom:|`:cherry_blossom:`|:four_leaf_clover:|`:four_leaf_clover:`|:sunflower:|`:sunflower:`|:maple_leaf:|`:maple_leaf:`|
+|:fallen_leaf:|`:fallen_leaf:`|:mushroom:|`:mushroom:`|:palm_tree:|`:palm_tree:`|:deciduous_tree:|`:deciduous_tree:`|
+|:seedling:|`:seedling:`|:ear_of_rice:|`:ear_of_rice:`|:bouquet:|`:bouquet:`|:tulip:|`:tulip:`|
+|:rose:|`:rose:`|:hibiscus:|`:hibiscus:`|:leaves:|`:leaves:`|:herb:|`:herb:`|
+|:cactus:|`:cactus:`|:evergreen_tree:|`:evergreen_tree:`|:blossom:|`:blossom:`|:shell:|`:shell:`|
+|:sun_with_face:|`:sun_with_face:`|:full_moon_with_face:|`:full_moon_with_face:`|:new_moon_with_face:|`:new_moon_with_face:`|:new_moon:|`:new_moon:`|
+|:waxing_crescent_moon:|`:waxing_crescent_moon:`|:first_quarter_moon:|`:first_quarter_moon:`|:waxing_gibbous_moon:|`:waxing_gibbous_moon:`|:full_moon:|`:full_moon:`|
+|:waning_gibbous_moon:|`:waning_gibbous_moon:`|:last_quarter_moon:|`:last_quarter_moon:`|:waning_crescent_moon:|`:waning_crescent_moon:`|:last_quarter_moon_with_face:|`:last_quarter_moon_with_face:`|
+|:first_quarter_moon_with_face:|`:first_quarter_moon_with_face:`|:crescent_moon:|`:crescent_moon:`|:earth_africa:|`:earth_africa:`|:earth_americas:|`:earth_americas:`|
+|:earth_asia:|`:earth_asia:`|
+||``||``||``||``|
