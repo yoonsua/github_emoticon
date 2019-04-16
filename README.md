@@ -126,3 +126,4 @@
 |:triangular_ruler:|`:triangular_ruler:`|:closed_book:|`:closed_book:`|:green_book:|`:green_book:`|:blue_book:|`:blue_book:`|
 |:orange_book:|`:orange_book:`|:notebook:|`:notebook:`|:notebook_with_decorative_cover:|`:notebook_with_decorative_cover:`|:ledger:|`:ledger:`|
 |:books:|`:books:`|:bookmark:|`:bookmark:`|:name_badge:|`:name_badge:`|:microscope:|`:microscope:`|
+||``|
